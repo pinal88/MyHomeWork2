@@ -4,12 +4,12 @@ public class MyHomeWorkClass5 {
     public static void main(String[] args) {
         //integer family
         //byte range is-128 to 127
-        byte g = -120;
+        byte g = -100;
         System.out.println("g="+g);
 
         //short range is -32768 to 32767
         short h = 31768;
-        System.out.println("h="+h);
+        System.out.println(h);
 
 
         //int range is -2147483648 to 2147483647
